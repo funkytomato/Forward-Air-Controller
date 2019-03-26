@@ -3,7 +3,17 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - CanDestroy
+  - Enemy
+  - AAProjectile
+  - RadarSphere
+  - Missile
+  - Terrain
+  - TakeOffPlatform
+  - LevelBounds
+  - LevelScripts
+  - WeatherMaker
   layers:
   - Default
   - TransparentFX
