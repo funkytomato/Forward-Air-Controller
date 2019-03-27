@@ -64,8 +64,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9c4c4cba63f134efeb1313a48c9d84ed, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  maximumTurnSpeed: 30
-  maximumElevationSpeed: 30
+  maximumTurnSpeed: 50
+  maximumElevationSpeed: 50
 --- !u!114 &114954961350791166
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -78,8 +78,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 56d5fc733047b4d8e96115aeb08a26c7, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  maximumTurnSpeed: 30
-  maximumElevationSpeed: 30
+  maximumTurnSpeed: 50
+  maximumElevationSpeed: 50
 --- !u!1101 &1101035224353249654
 AnimatorStateTransition:
   m_ObjectHideFlags: 1
@@ -165,16 +165,16 @@ AnimatorStateTransition:
   m_Conditions:
   - m_ConditionMode: 3
     m_ConditionEvent: angleToTargetDeg
-    m_EventTreshold: 10
+    m_EventTreshold: 15
   - m_ConditionMode: 4
     m_ConditionEvent: angleToTargetDeg
-    m_EventTreshold: -10
+    m_EventTreshold: -15
   - m_ConditionMode: 3
     m_ConditionEvent: elevationToTargetDeg
-    m_EventTreshold: 10
+    m_EventTreshold: 15
   - m_ConditionMode: 3
     m_ConditionEvent: elevationToTargetDeg
-    m_EventTreshold: -10
+    m_EventTreshold: -15
   m_DstStateMachine: {fileID: 0}
   m_DstState: {fileID: 1102105326977450698}
   m_Solo: 0
@@ -199,16 +199,16 @@ AnimatorStateTransition:
   m_Conditions:
   - m_ConditionMode: 4
     m_ConditionEvent: angleToTargetDeg
-    m_EventTreshold: 10
+    m_EventTreshold: 15
   - m_ConditionMode: 3
     m_ConditionEvent: angleToTargetDeg
-    m_EventTreshold: -10
+    m_EventTreshold: -15
   - m_ConditionMode: 4
     m_ConditionEvent: elevationToTargetDeg
-    m_EventTreshold: 10
+    m_EventTreshold: 15
   - m_ConditionMode: 3
     m_ConditionEvent: elevationToTargetDeg
-    m_EventTreshold: -10
+    m_EventTreshold: -15
   m_DstStateMachine: {fileID: 0}
   m_DstState: {fileID: 1102297832166237472}
   m_Solo: 0
