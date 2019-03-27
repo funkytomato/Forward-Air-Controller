@@ -63,7 +63,7 @@ public class ProximityExplosion : MonoBehaviour
             tag == "AAProjectile" && collision.gameObject.name == "Aircraft_AntiAirGun" ||
             tag == "AAProjectile" && collision.gameObject.name == "Aircraft_AntiAir4Guns" ||
             collision.gameObject.tag == "Missile" /*|| collision.gameObject.tag == "Player"*/ ||
-             collision.gameObject.tag == "LevelBounds"/* || tag == "Untagged"*/) { return; }
+             collision.gameObject.tag == "LevelBounds" || collision.gameObject.tag == "Untagged") { return; }
 
 
         if (collision.gameObject.GetComponent<HitPoint>() != null)
