@@ -7168,3 +7168,825 @@ Forward Air Controller/ProjectSettings/QualitySettings.asset
 Forward Air Controller/ProjectSettings/GraphicsSettings.asset
 Forward Air Controller/ProjectSettings/ProjectSettings.asset
 Forward Air Controller/ProjectSettings/QualitySettings.asset
+Forward Air Controller/Assets/EffectExamples.meta
+Forward Air Controller/Assets/EffectExamples/Fire & Explosion Effects.meta
+Forward Air Controller/Assets/EffectExamples/Fire & Explosion Effects/Materials.meta
+Forward Air Controller/Assets/EffectExamples/Fire & Explosion Effects/Materials/DebrisParticle.mat
+Forward Air Controller/Assets/EffectExamples/Fire & Explosion Effects/Materials/DebrisParticle.mat.meta
+Forward Air Controller/Assets/EffectExamples/Fire & Explosion Effects/Materials/Dust.mat
+Forward Air Controller/Assets/EffectExamples/Fire & Explosion Effects/Materials/Dust.mat.meta
+Forward Air Controller/Assets/EffectExamples/Fire & Explosion Effects/Materials/Embers.mat
+Forward Air Controller/Assets/EffectExamples/Fire & Explosion Effects/Materials/Embers.mat.meta
+Forward Air Controller/Assets/EffectExamples/Fire & Explosion Effects/Materials/EnergyExplosion.mat
+Forward Air Controller/Assets/EffectExamples/Fire & Explosion Effects/Materials/EnergyExplosion.mat.meta
+Forward Air Controller/Assets/EffectExamples/Fire & Explosion Effects/Materials/EnergyShockwave.mat
+Forward Air Controller/Assets/EffectExamples/Fire & Explosion Effects/Materials/EnergyShockwave.mat.meta
+Forward Air Controller/Assets/EffectExamples/Fire & Explosion Effects/Materials/Explosion.mat
+Forward Air Controller/Assets/EffectExamples/Fire & Explosion Effects/Materials/Explosion.mat.meta
+Forward Air Controller/Assets/EffectExamples/Fire & Explosion Effects/Materials/ExplosionDistortion.mat
+Forward Air Controller/Assets/EffectExamples/Fire & Explosion Effects/Materials/ExplosionDistortion.mat.meta
+Forward Air Controller/Assets/EffectExamples/Fire & Explosion Effects/Materials/fireball.mat
+Forward Air Controller/Assets/EffectExamples/Fire & Explosion Effects/Materials/fireball.mat.meta
+Forward Air Controller/Assets/EffectExamples/Fire & Explosion Effects/Materials/FireExplosion.mat
+Forward Air Controller/Assets/EffectExamples/Fire & Explosion Effects/Materials/FireExplosion.mat.meta
+Forward Air Controller/Assets/EffectExamples/Fire & Explosion Effects/Materials/Flame02.mat
+Forward Air Controller/Assets/EffectExamples/Fire & Explosion Effects/Materials/Flame02.mat.meta
+Forward Air Controller/Assets/EffectExamples/Fire & Explosion Effects/Materials/Flame03.mat
+Forward Air Controller/Assets/EffectExamples/Fire & Explosion Effects/Materials/Flame03.mat.meta
+Forward Air Controller/Assets/EffectExamples/Fire & Explosion Effects/Materials/Flame04.mat
+Forward Air Controller/Assets/EffectExamples/Fire & Explosion Effects/Materials/Flame04.mat.meta
+Forward Air Controller/Assets/EffectExamples/Fire & Explosion Effects/Materials/LargeFlame01.mat
+Forward Air Controller/Assets/EffectExamples/Fire & Explosion Effects/Materials/LargeFlame01.mat.meta
+Forward Air Controller/Assets/EffectExamples/Fire & Explosion Effects/Materials/LargeFlame02.mat
+Forward Air Controller/Assets/EffectExamples/Fire & Explosion Effects/Materials/LargeFlame02.mat.meta
+Forward Air Controller/Assets/EffectExamples/Fire & Explosion Effects/Materials/Lightning.mat
+Forward Air Controller/Assets/EffectExamples/Fire & Explosion Effects/Materials/Lightning.mat.meta
+Forward Air Controller/Assets/EffectExamples/Fire & Explosion Effects/Materials/LightningTrail.mat
+Forward Air Controller/Assets/EffectExamples/Fire & Explosion Effects/Materials/LightningTrail.mat.meta
+Forward Air Controller/Assets/EffectExamples/Fire & Explosion Effects/Materials/MediumFlame01.mat
+Forward Air Controller/Assets/EffectExamples/Fire & Explosion Effects/Materials/MediumFlame01.mat.meta
+Forward Air Controller/Assets/EffectExamples/Fire & Explosion Effects/Materials/MediumFlame02.mat
+Forward Air Controller/Assets/EffectExamples/Fire & Explosion Effects/Materials/MediumFlame02.mat.meta
+Forward Air Controller/Assets/EffectExamples/Fire & Explosion Effects/Materials/MediumFlame03.mat
+Forward Air Controller/Assets/EffectExamples/Fire & Explosion Effects/Materials/MediumFlame03.mat.meta
+Forward Air Controller/Assets/EffectExamples/Fire & Explosion Effects/Materials/PlasmaExplosion.mat
+Forward Air Controller/Assets/EffectExamples/Fire & Explosion Effects/Materials/PlasmaExplosion.mat.meta
+Forward Air Controller/Assets/EffectExamples/Fire & Explosion Effects/Materials/PlasmaFire.mat
+Forward Air Controller/Assets/EffectExamples/Fire & Explosion Effects/Materials/PlasmaFire.mat.meta
+Forward Air Controller/Assets/EffectExamples/Fire & Explosion Effects/Materials/SandParticle.mat
+Forward Air Controller/Assets/EffectExamples/Fire & Explosion Effects/Materials/SandParticle.mat.meta
+Forward Air Controller/Assets/EffectExamples/Fire & Explosion Effects/Materials/SmokeDark.mat
+Forward Air Controller/Assets/EffectExamples/Fire & Explosion Effects/Materials/SmokeDark.mat.meta
+Forward Air Controller/Assets/EffectExamples/Fire & Explosion Effects/Materials/TinyFlame.mat
+Forward Air Controller/Assets/EffectExamples/Fire & Explosion Effects/Materials/TinyFlame.mat.meta
+Forward Air Controller/Assets/EffectExamples/Fire & Explosion Effects/Prefabs.meta
+Forward Air Controller/Assets/EffectExamples/Fire & Explosion Effects/Prefabs/BigExplosion.prefab
+Forward Air Controller/Assets/EffectExamples/Fire & Explosion Effects/Prefabs/BigExplosion.prefab.meta
+Forward Air Controller/Assets/EffectExamples/Fire & Explosion Effects/Prefabs/DustExplosion.prefab
+Forward Air Controller/Assets/EffectExamples/Fire & Explosion Effects/Prefabs/DustExplosion.prefab.meta
+Forward Air Controller/Assets/EffectExamples/Fire & Explosion Effects/Prefabs/EnergyExplosion.prefab
+Forward Air Controller/Assets/EffectExamples/Fire & Explosion Effects/Prefabs/EnergyExplosion.prefab.meta
+Forward Air Controller/Assets/EffectExamples/Fire & Explosion Effects/Prefabs/FireBall.prefab
+Forward Air Controller/Assets/EffectExamples/Fire & Explosion Effects/Prefabs/FireBall.prefab.meta
+Forward Air Controller/Assets/EffectExamples/Fire & Explosion Effects/Prefabs/FlameStream.prefab
+Forward Air Controller/Assets/EffectExamples/Fire & Explosion Effects/Prefabs/FlameStream.prefab.meta
+Forward Air Controller/Assets/EffectExamples/Fire & Explosion Effects/Prefabs/FlameThrower.prefab
+Forward Air Controller/Assets/EffectExamples/Fire & Explosion Effects/Prefabs/FlameThrower.prefab.meta
+Forward Air Controller/Assets/EffectExamples/Fire & Explosion Effects/Prefabs/LargeFlames.prefab
+Forward Air Controller/Assets/EffectExamples/Fire & Explosion Effects/Prefabs/LargeFlames.prefab.meta
+Forward Air Controller/Assets/EffectExamples/Fire & Explosion Effects/Prefabs/MediumFlames.prefab
+Forward Air Controller/Assets/EffectExamples/Fire & Explosion Effects/Prefabs/MediumFlames.prefab.meta
+Forward Air Controller/Assets/EffectExamples/Fire & Explosion Effects/Prefabs/ParticlesLight.prefab
+Forward Air Controller/Assets/EffectExamples/Fire & Explosion Effects/Prefabs/ParticlesLight.prefab.meta
+Forward Air Controller/Assets/EffectExamples/Fire & Explosion Effects/Prefabs/PlasmaExplosionEffect.prefab
+Forward Air Controller/Assets/EffectExamples/Fire & Explosion Effects/Prefabs/PlasmaExplosionEffect.prefab.meta
+Forward Air Controller/Assets/EffectExamples/Fire & Explosion Effects/Prefabs/SmallExplosion.prefab
+Forward Air Controller/Assets/EffectExamples/Fire & Explosion Effects/Prefabs/SmallExplosion.prefab.meta
+Forward Air Controller/Assets/EffectExamples/Fire & Explosion Effects/Prefabs/TinyExplosion.prefab
+Forward Air Controller/Assets/EffectExamples/Fire & Explosion Effects/Prefabs/TinyExplosion.prefab.meta
+Forward Air Controller/Assets/EffectExamples/Fire & Explosion Effects/Prefabs/TinyFlames.prefab
+Forward Air Controller/Assets/EffectExamples/Fire & Explosion Effects/Prefabs/TinyFlames.prefab.meta
+Forward Air Controller/Assets/EffectExamples/Fire & Explosion Effects/Prefabs/WildFire.prefab
+Forward Air Controller/Assets/EffectExamples/Fire & Explosion Effects/Prefabs/WildFire.prefab.meta
+Forward Air Controller/Assets/EffectExamples/Fire & Explosion Effects/Textures.meta
+Forward Air Controller/Assets/EffectExamples/Fire & Explosion Effects/Textures/Debris.png
+Forward Air Controller/Assets/EffectExamples/Fire & Explosion Effects/Textures/Debris.png.meta
+Forward Air Controller/Assets/EffectExamples/Fire & Explosion Effects/Textures/EnergyEffect.tif
+Forward Air Controller/Assets/EffectExamples/Fire & Explosion Effects/Textures/EnergyEffect.tif.meta
+Forward Air Controller/Assets/EffectExamples/Fire & Explosion Effects/Textures/Explosion.tif
+Forward Air Controller/Assets/EffectExamples/Fire & Explosion Effects/Textures/Explosion.tif.meta
+Forward Air Controller/Assets/EffectExamples/Fire & Explosion Effects/Textures/ExplosionEmission.tif
+Forward Air Controller/Assets/EffectExamples/Fire & Explosion Effects/Textures/ExplosionEmission.tif.meta
+Forward Air Controller/Assets/EffectExamples/Fire & Explosion Effects/Textures/Fireball.tif
+Forward Air Controller/Assets/EffectExamples/Fire & Explosion Effects/Textures/Fireball.tif.meta
+Forward Air Controller/Assets/EffectExamples/Fire & Explosion Effects/Textures/FireBallEmission.tif
+Forward Air Controller/Assets/EffectExamples/Fire & Explosion Effects/Textures/FireBallEmission.tif.meta
+Forward Air Controller/Assets/EffectExamples/Fire & Explosion Effects/Textures/FireExplosion.tif
+Forward Air Controller/Assets/EffectExamples/Fire & Explosion Effects/Textures/FireExplosion.tif.meta
+Forward Air Controller/Assets/EffectExamples/Fire & Explosion Effects/Textures/Flame02.tif
+Forward Air Controller/Assets/EffectExamples/Fire & Explosion Effects/Textures/Flame02.tif.meta
+Forward Air Controller/Assets/EffectExamples/Fire & Explosion Effects/Textures/Flame03.tif
+Forward Air Controller/Assets/EffectExamples/Fire & Explosion Effects/Textures/Flame03.tif.meta
+Forward Air Controller/Assets/EffectExamples/Fire & Explosion Effects/Textures/Flame04.tif
+Forward Air Controller/Assets/EffectExamples/Fire & Explosion Effects/Textures/Flame04.tif.meta
+Forward Air Controller/Assets/EffectExamples/Fire & Explosion Effects/Textures/LargeFlame01.tif
+Forward Air Controller/Assets/EffectExamples/Fire & Explosion Effects/Textures/LargeFlame01.tif.meta
+Forward Air Controller/Assets/EffectExamples/Fire & Explosion Effects/Textures/LargeFlame02.tif
+Forward Air Controller/Assets/EffectExamples/Fire & Explosion Effects/Textures/LargeFlame02.tif.meta
+Forward Air Controller/Assets/EffectExamples/Fire & Explosion Effects/Textures/Lightning.tif
+Forward Air Controller/Assets/EffectExamples/Fire & Explosion Effects/Textures/Lightning.tif.meta
+Forward Air Controller/Assets/EffectExamples/Fire & Explosion Effects/Textures/LightningTrail.tif
+Forward Air Controller/Assets/EffectExamples/Fire & Explosion Effects/Textures/LightningTrail.tif.meta
+Forward Air Controller/Assets/EffectExamples/Fire & Explosion Effects/Textures/MediumFlame01.tif
+Forward Air Controller/Assets/EffectExamples/Fire & Explosion Effects/Textures/MediumFlame01.tif.meta
+Forward Air Controller/Assets/EffectExamples/Fire & Explosion Effects/Textures/MediumFlame01Emission.tif
+Forward Air Controller/Assets/EffectExamples/Fire & Explosion Effects/Textures/MediumFlame01Emission.tif.meta
+Forward Air Controller/Assets/EffectExamples/Fire & Explosion Effects/Textures/MediumFlame03.tif
+Forward Air Controller/Assets/EffectExamples/Fire & Explosion Effects/Textures/MediumFlame03.tif.meta
+Forward Air Controller/Assets/EffectExamples/Fire & Explosion Effects/Textures/MedumFlame02.tif
+Forward Air Controller/Assets/EffectExamples/Fire & Explosion Effects/Textures/MedumFlame02.tif.meta
+Forward Air Controller/Assets/EffectExamples/Fire & Explosion Effects/Textures/ramp01.png
+Forward Air Controller/Assets/EffectExamples/Fire & Explosion Effects/Textures/ramp01.png.meta
+Forward Air Controller/Assets/EffectExamples/Fire & Explosion Effects/Textures/Ramp02.png
+Forward Air Controller/Assets/EffectExamples/Fire & Explosion Effects/Textures/Ramp02.png.meta
+Forward Air Controller/Assets/EffectExamples/Fire & Explosion Effects/Textures/Ramp03.png
+Forward Air Controller/Assets/EffectExamples/Fire & Explosion Effects/Textures/Ramp03.png.meta
+Forward Air Controller/Assets/EffectExamples/Fire & Explosion Effects/Textures/RoundSoftParticle.tif
+Forward Air Controller/Assets/EffectExamples/Fire & Explosion Effects/Textures/RoundSoftParticle.tif.meta
+Forward Air Controller/Assets/EffectExamples/Fire & Explosion Effects/Textures/shockwave.tif
+Forward Air Controller/Assets/EffectExamples/Fire & Explosion Effects/Textures/shockwave.tif.meta
+Forward Air Controller/Assets/EffectExamples/Fire & Explosion Effects/Textures/SmokePuff01.tif
+Forward Air Controller/Assets/EffectExamples/Fire & Explosion Effects/Textures/SmokePuff01.tif.meta
+Forward Air Controller/Assets/EffectExamples/Fire & Explosion Effects/Textures/SmokePuff02.png
+Forward Air Controller/Assets/EffectExamples/Fire & Explosion Effects/Textures/SmokePuff02.png.meta
+Forward Air Controller/Assets/EffectExamples/Fire & Explosion Effects/Textures/SmokePuffNormal.tif
+Forward Air Controller/Assets/EffectExamples/Fire & Explosion Effects/Textures/SmokePuffNormal.tif.meta
+Forward Air Controller/Assets/EffectExamples/Fire & Explosion Effects/Textures/SphereNormal.tif
+Forward Air Controller/Assets/EffectExamples/Fire & Explosion Effects/Textures/SphereNormal.tif.meta
+Forward Air Controller/Assets/EffectExamples/Fire & Explosion Effects/Textures/TinyFlame.tif
+Forward Air Controller/Assets/EffectExamples/Fire & Explosion Effects/Textures/TinyFlame.tif.meta
+Forward Air Controller/Assets/EffectExamples/Fire & Explosion Effects/Textures/TinyStones.png
+Forward Air Controller/Assets/EffectExamples/Fire & Explosion Effects/Textures/TinyStones.png.meta
+Forward Air Controller/Assets/EffectExamples/Goop Effects.meta
+Forward Air Controller/Assets/EffectExamples/Goop Effects/Materials.meta
+Forward Air Controller/Assets/EffectExamples/Goop Effects/Materials/GoopPoolParticle.mat
+Forward Air Controller/Assets/EffectExamples/Goop Effects/Materials/GoopPoolParticle.mat.meta
+Forward Air Controller/Assets/EffectExamples/Goop Effects/Materials/GoopSplashParticle.mat
+Forward Air Controller/Assets/EffectExamples/Goop Effects/Materials/GoopSplashParticle.mat.meta
+Forward Air Controller/Assets/EffectExamples/Goop Effects/Materials/GoopSplatParticle.mat
+Forward Air Controller/Assets/EffectExamples/Goop Effects/Materials/GoopSplatParticle.mat.meta
+Forward Air Controller/Assets/EffectExamples/Goop Effects/Materials/GoopStreamParticle.mat
+Forward Air Controller/Assets/EffectExamples/Goop Effects/Materials/GoopStreamParticle.mat.meta
+Forward Air Controller/Assets/EffectExamples/Goop Effects/Prefabs.meta
+Forward Air Controller/Assets/EffectExamples/Goop Effects/Prefabs/GoopSpray.prefab
+Forward Air Controller/Assets/EffectExamples/Goop Effects/Prefabs/GoopSpray.prefab.meta
+Forward Air Controller/Assets/EffectExamples/Goop Effects/Prefabs/GoopSprayEffect.prefab
+Forward Air Controller/Assets/EffectExamples/Goop Effects/Prefabs/GoopSprayEffect.prefab.meta
+Forward Air Controller/Assets/EffectExamples/Goop Effects/Prefabs/GoopStreamEffect.prefab
+Forward Air Controller/Assets/EffectExamples/Goop Effects/Prefabs/GoopStreamEffect.prefab.meta
+Forward Air Controller/Assets/EffectExamples/Goop Effects/Textures.meta
+Forward Air Controller/Assets/EffectExamples/Goop Effects/Textures/GoopDropAlbedo.tif
+Forward Air Controller/Assets/EffectExamples/Goop Effects/Textures/GoopDropAlbedo.tif.meta
+Forward Air Controller/Assets/EffectExamples/Goop Effects/Textures/GoopDropNormals.tif
+Forward Air Controller/Assets/EffectExamples/Goop Effects/Textures/GoopDropNormals.tif.meta
+Forward Air Controller/Assets/EffectExamples/Goop Effects/Textures/GoopPoolAlbedo.tif
+Forward Air Controller/Assets/EffectExamples/Goop Effects/Textures/GoopPoolAlbedo.tif.meta
+Forward Air Controller/Assets/EffectExamples/Goop Effects/Textures/GoopPoolNormals.tif
+Forward Air Controller/Assets/EffectExamples/Goop Effects/Textures/GoopPoolNormals.tif.meta
+Forward Air Controller/Assets/EffectExamples/Goop Effects/Textures/GoopSprayAlbedo.tif
+Forward Air Controller/Assets/EffectExamples/Goop Effects/Textures/GoopSprayAlbedo.tif.meta
+Forward Air Controller/Assets/EffectExamples/Goop Effects/Textures/GoopSprayNormals.tif
+Forward Air Controller/Assets/EffectExamples/Goop Effects/Textures/GoopSprayNormals.tif.meta
+Forward Air Controller/Assets/EffectExamples/Goop Effects/Textures/GoopStreamAlbedo.tif
+Forward Air Controller/Assets/EffectExamples/Goop Effects/Textures/GoopStreamAlbedo.tif.meta
+Forward Air Controller/Assets/EffectExamples/Goop Effects/Textures/SplatAlbedo.tif
+Forward Air Controller/Assets/EffectExamples/Goop Effects/Textures/SplatAlbedo.tif.meta
+Forward Air Controller/Assets/EffectExamples/Magic Effects.meta
+Forward Air Controller/Assets/EffectExamples/Magic Effects/Materials.meta
+Forward Air Controller/Assets/EffectExamples/Magic Effects/Materials/EarthCrack.mat
+Forward Air Controller/Assets/EffectExamples/Magic Effects/Materials/EarthCrack.mat.meta
+Forward Air Controller/Assets/EffectExamples/Magic Effects/Materials/Embers.mat
+Forward Air Controller/Assets/EffectExamples/Magic Effects/Materials/Embers.mat.meta
+Forward Air Controller/Assets/EffectExamples/Magic Effects/Materials/Fireball.mat
+Forward Air Controller/Assets/EffectExamples/Magic Effects/Materials/Fireball.mat.meta
+Forward Air Controller/Assets/EffectExamples/Magic Effects/Materials/Ice.mat
+Forward Air Controller/Assets/EffectExamples/Magic Effects/Materials/Ice.mat.meta
+Forward Air Controller/Assets/EffectExamples/Magic Effects/Materials/IceMist.mat
+Forward Air Controller/Assets/EffectExamples/Magic Effects/Materials/IceMist.mat.meta
+Forward Air Controller/Assets/EffectExamples/Magic Effects/Materials/IceTrail.mat
+Forward Air Controller/Assets/EffectExamples/Magic Effects/Materials/IceTrail.mat.meta
+Forward Air Controller/Assets/EffectExamples/Magic Effects/Materials/RockDust.mat
+Forward Air Controller/Assets/EffectExamples/Magic Effects/Materials/RockDust.mat.meta
+Forward Air Controller/Assets/EffectExamples/Magic Effects/Materials/RockSpike.mat
+Forward Air Controller/Assets/EffectExamples/Magic Effects/Materials/RockSpike.mat.meta
+Forward Air Controller/Assets/EffectExamples/Magic Effects/Models.meta
+Forward Air Controller/Assets/EffectExamples/Magic Effects/Models/IceLance.FBX
+Forward Air Controller/Assets/EffectExamples/Magic Effects/Models/IceLance.FBX.meta
+Forward Air Controller/Assets/EffectExamples/Magic Effects/Models/IceShard.FBX
+Forward Air Controller/Assets/EffectExamples/Magic Effects/Models/IceShard.FBX.meta
+Forward Air Controller/Assets/EffectExamples/Magic Effects/Models/RockDebris.FBX
+Forward Air Controller/Assets/EffectExamples/Magic Effects/Models/RockDebris.FBX.meta
+Forward Air Controller/Assets/EffectExamples/Magic Effects/Models/RockSpike.FBX
+Forward Air Controller/Assets/EffectExamples/Magic Effects/Models/RockSpike.FBX.meta
+Forward Air Controller/Assets/EffectExamples/Magic Effects/Prefabs.meta
+Forward Air Controller/Assets/EffectExamples/Magic Effects/Prefabs/EarthShatter.prefab
+Forward Air Controller/Assets/EffectExamples/Magic Effects/Prefabs/EarthShatter.prefab.meta
+Forward Air Controller/Assets/EffectExamples/Magic Effects/Prefabs/IceLance.prefab
+Forward Air Controller/Assets/EffectExamples/Magic Effects/Prefabs/IceLance.prefab.meta
+Forward Air Controller/Assets/EffectExamples/Magic Effects/Shaders.meta
+Forward Air Controller/Assets/EffectExamples/Magic Effects/Shaders/Ice.shader
+Forward Air Controller/Assets/EffectExamples/Magic Effects/Shaders/Ice.shader.meta
+Forward Air Controller/Assets/EffectExamples/Magic Effects/Textures.meta
+Forward Air Controller/Assets/EffectExamples/Magic Effects/Textures/DustPuffSmall.png
+Forward Air Controller/Assets/EffectExamples/Magic Effects/Textures/DustPuffSmall.png.meta
+Forward Air Controller/Assets/EffectExamples/Magic Effects/Textures/EarthCrackAlbedo.tif
+Forward Air Controller/Assets/EffectExamples/Magic Effects/Textures/EarthCrackAlbedo.tif.meta
+Forward Air Controller/Assets/EffectExamples/Magic Effects/Textures/EarthCrackEmissive.tif
+Forward Air Controller/Assets/EffectExamples/Magic Effects/Textures/EarthCrackEmissive.tif.meta
+Forward Air Controller/Assets/EffectExamples/Magic Effects/Textures/EarthCrackNormal.tif
+Forward Air Controller/Assets/EffectExamples/Magic Effects/Textures/EarthCrackNormal.tif.meta
+Forward Air Controller/Assets/EffectExamples/Magic Effects/Textures/Fireball.tif
+Forward Air Controller/Assets/EffectExamples/Magic Effects/Textures/Fireball.tif.meta
+Forward Air Controller/Assets/EffectExamples/Magic Effects/Textures/FireBallEmission.tif
+Forward Air Controller/Assets/EffectExamples/Magic Effects/Textures/FireBallEmission.tif.meta
+Forward Air Controller/Assets/EffectExamples/Magic Effects/Textures/IceCurvature.tif
+Forward Air Controller/Assets/EffectExamples/Magic Effects/Textures/IceCurvature.tif.meta
+Forward Air Controller/Assets/EffectExamples/Magic Effects/Textures/IceNormals.tif
+Forward Air Controller/Assets/EffectExamples/Magic Effects/Textures/IceNormals.tif.meta
+Forward Air Controller/Assets/EffectExamples/Magic Effects/Textures/Ramp01.png
+Forward Air Controller/Assets/EffectExamples/Magic Effects/Textures/Ramp01.png.meta
+Forward Air Controller/Assets/EffectExamples/Magic Effects/Textures/Ramp02.png
+Forward Air Controller/Assets/EffectExamples/Magic Effects/Textures/Ramp02.png.meta
+Forward Air Controller/Assets/EffectExamples/Magic Effects/Textures/Ramp03.png
+Forward Air Controller/Assets/EffectExamples/Magic Effects/Textures/Ramp03.png.meta
+Forward Air Controller/Assets/EffectExamples/Magic Effects/Textures/RockNormal.tga
+Forward Air Controller/Assets/EffectExamples/Magic Effects/Textures/RockNormal.tga.meta
+Forward Air Controller/Assets/EffectExamples/Magic Effects/Textures/RocksAlbedo.tga
+Forward Air Controller/Assets/EffectExamples/Magic Effects/Textures/RocksAlbedo.tga.meta
+Forward Air Controller/Assets/EffectExamples/Magic Effects/Textures/RocksAlbedoEmissive.tif
+Forward Air Controller/Assets/EffectExamples/Magic Effects/Textures/RocksAlbedoEmissive.tif.meta
+Forward Air Controller/Assets/EffectExamples/Magic Effects/Textures/RocksSpecGloss.tga
+Forward Air Controller/Assets/EffectExamples/Magic Effects/Textures/RocksSpecGloss.tga.meta
+Forward Air Controller/Assets/EffectExamples/Magic Effects/Textures/SmokePuff02.png
+Forward Air Controller/Assets/EffectExamples/Magic Effects/Textures/SmokePuff02.png.meta
+Forward Air Controller/Assets/EffectExamples/Misc Effects.meta
+Forward Air Controller/Assets/EffectExamples/Misc Effects/Animations.meta
+Forward Air Controller/Assets/EffectExamples/Misc Effects/Animations/@EllenIdle.fbx
+Forward Air Controller/Assets/EffectExamples/Misc Effects/Animations/@EllenIdle.fbx.meta
+Forward Air Controller/Assets/EffectExamples/Misc Effects/Animations/Ellen.controller
+Forward Air Controller/Assets/EffectExamples/Misc Effects/Animations/Ellen.controller.meta
+Forward Air Controller/Assets/EffectExamples/Misc Effects/Materials.meta
+Forward Air Controller/Assets/EffectExamples/Misc Effects/Materials/candle.mat
+Forward Air Controller/Assets/EffectExamples/Misc Effects/Materials/candle.mat.meta
+Forward Air Controller/Assets/EffectExamples/Misc Effects/Materials/CandleFlame.mat
+Forward Air Controller/Assets/EffectExamples/Misc Effects/Materials/CandleFlame.mat.meta
+Forward Air Controller/Assets/EffectExamples/Misc Effects/Materials/Dissolve.mat
+Forward Air Controller/Assets/EffectExamples/Misc Effects/Materials/Dissolve.mat.meta
+Forward Air Controller/Assets/EffectExamples/Misc Effects/Materials/DissolveChunks.mat
+Forward Air Controller/Assets/EffectExamples/Misc Effects/Materials/DissolveChunks.mat.meta
+Forward Air Controller/Assets/EffectExamples/Misc Effects/Materials/DustMote.mat
+Forward Air Controller/Assets/EffectExamples/Misc Effects/Materials/DustMote.mat.meta
+Forward Air Controller/Assets/EffectExamples/Misc Effects/Materials/ElectricalSparks.mat
+Forward Air Controller/Assets/EffectExamples/Misc Effects/Materials/ElectricalSparks.mat.meta
+Forward Air Controller/Assets/EffectExamples/Misc Effects/Materials/Embers.mat
+Forward Air Controller/Assets/EffectExamples/Misc Effects/Materials/Embers.mat.meta
+Forward Air Controller/Assets/EffectExamples/Misc Effects/Materials/FireFly.mat
+Forward Air Controller/Assets/EffectExamples/Misc Effects/Materials/FireFly.mat.meta
+Forward Air Controller/Assets/EffectExamples/Misc Effects/Materials/FireFlyTrail.mat
+Forward Air Controller/Assets/EffectExamples/Misc Effects/Materials/FireFlyTrail.mat.meta
+Forward Air Controller/Assets/EffectExamples/Misc Effects/Materials/Respawn.mat
+Forward Air Controller/Assets/EffectExamples/Misc Effects/Materials/Respawn.mat.meta
+Forward Air Controller/Assets/EffectExamples/Misc Effects/Materials/SandSwirls.mat
+Forward Air Controller/Assets/EffectExamples/Misc Effects/Materials/SandSwirls.mat.meta
+Forward Air Controller/Assets/EffectExamples/Misc Effects/Materials/SmokePuff.mat
+Forward Air Controller/Assets/EffectExamples/Misc Effects/Materials/SmokePuff.mat.meta
+Forward Air Controller/Assets/EffectExamples/Misc Effects/Materials/Sparks.mat
+Forward Air Controller/Assets/EffectExamples/Misc Effects/Materials/Sparks.mat.meta
+Forward Air Controller/Assets/EffectExamples/Misc Effects/Materials/SpawnTrail.mat
+Forward Air Controller/Assets/EffectExamples/Misc Effects/Materials/SpawnTrail.mat.meta
+Forward Air Controller/Assets/EffectExamples/Misc Effects/Models.meta
+Forward Air Controller/Assets/EffectExamples/Misc Effects/Models/Candle.fbx
+Forward Air Controller/Assets/EffectExamples/Misc Effects/Models/Candle.fbx.meta
+Forward Air Controller/Assets/EffectExamples/Misc Effects/Models/Ellen.fbx
+Forward Air Controller/Assets/EffectExamples/Misc Effects/Models/Ellen.fbx.meta
+Forward Air Controller/Assets/EffectExamples/Misc Effects/Models/FireFly.fbx
+Forward Air Controller/Assets/EffectExamples/Misc Effects/Models/FireFly.fbx.meta
+Forward Air Controller/Assets/EffectExamples/Misc Effects/Models/Flakes.fbx
+Forward Air Controller/Assets/EffectExamples/Misc Effects/Models/Flakes.fbx.meta
+Forward Air Controller/Assets/EffectExamples/Misc Effects/Prefabs.meta
+Forward Air Controller/Assets/EffectExamples/Misc Effects/Prefabs/Candles.prefab
+Forward Air Controller/Assets/EffectExamples/Misc Effects/Prefabs/Candles.prefab.meta
+Forward Air Controller/Assets/EffectExamples/Misc Effects/Prefabs/Dissolve.prefab
+Forward Air Controller/Assets/EffectExamples/Misc Effects/Prefabs/Dissolve.prefab.meta
+Forward Air Controller/Assets/EffectExamples/Misc Effects/Prefabs/DustMotesEffect.prefab
+Forward Air Controller/Assets/EffectExamples/Misc Effects/Prefabs/DustMotesEffect.prefab.meta
+Forward Air Controller/Assets/EffectExamples/Misc Effects/Prefabs/ElectricalSparks.prefab
+Forward Air Controller/Assets/EffectExamples/Misc Effects/Prefabs/ElectricalSparks.prefab.meta
+Forward Air Controller/Assets/EffectExamples/Misc Effects/Prefabs/FireFlies.prefab
+Forward Air Controller/Assets/EffectExamples/Misc Effects/Prefabs/FireFlies.prefab.meta
+Forward Air Controller/Assets/EffectExamples/Misc Effects/Prefabs/ParticlesLight.prefab
+Forward Air Controller/Assets/EffectExamples/Misc Effects/Prefabs/ParticlesLight.prefab.meta
+Forward Air Controller/Assets/EffectExamples/Misc Effects/Prefabs/Readme_Dissolve_Respawn_.txt
+Forward Air Controller/Assets/EffectExamples/Misc Effects/Prefabs/Readme_Dissolve_Respawn_.txt.meta
+Forward Air Controller/Assets/EffectExamples/Misc Effects/Prefabs/Respawn.prefab
+Forward Air Controller/Assets/EffectExamples/Misc Effects/Prefabs/Respawn.prefab.meta
+Forward Air Controller/Assets/EffectExamples/Misc Effects/Prefabs/SandSwirlsEffect.prefab
+Forward Air Controller/Assets/EffectExamples/Misc Effects/Prefabs/SandSwirlsEffect.prefab.meta
+Forward Air Controller/Assets/EffectExamples/Misc Effects/Prefabs/SparksEffect.prefab
+Forward Air Controller/Assets/EffectExamples/Misc Effects/Prefabs/SparksEffect.prefab.meta
+Forward Air Controller/Assets/EffectExamples/Misc Effects/Scripts.meta
+Forward Air Controller/Assets/EffectExamples/Misc Effects/Scripts/SpawnEffect.cs
+Forward Air Controller/Assets/EffectExamples/Misc Effects/Scripts/SpawnEffect.cs.meta
+Forward Air Controller/Assets/EffectExamples/Misc Effects/Shaders.meta
+Forward Air Controller/Assets/EffectExamples/Misc Effects/Shaders/Dissolve.shader
+Forward Air Controller/Assets/EffectExamples/Misc Effects/Shaders/Dissolve.shader.meta
+Forward Air Controller/Assets/EffectExamples/Misc Effects/Shaders/FireFly.shader
+Forward Air Controller/Assets/EffectExamples/Misc Effects/Shaders/FireFly.shader.meta
+Forward Air Controller/Assets/EffectExamples/Misc Effects/Shaders/Respawn.shader
+Forward Air Controller/Assets/EffectExamples/Misc Effects/Shaders/Respawn.shader.meta
+Forward Air Controller/Assets/EffectExamples/Misc Effects/Textures.meta
+Forward Air Controller/Assets/EffectExamples/Misc Effects/Textures/CandleFlame.tif
+Forward Air Controller/Assets/EffectExamples/Misc Effects/Textures/CandleFlame.tif.meta
+Forward Air Controller/Assets/EffectExamples/Misc Effects/Textures/Clouds.tif
+Forward Air Controller/Assets/EffectExamples/Misc Effects/Textures/Clouds.tif.meta
+Forward Air Controller/Assets/EffectExamples/Misc Effects/Textures/DissolveChunks.tif
+Forward Air Controller/Assets/EffectExamples/Misc Effects/Textures/DissolveChunks.tif.meta
+Forward Air Controller/Assets/EffectExamples/Misc Effects/Textures/DustMote.png
+Forward Air Controller/Assets/EffectExamples/Misc Effects/Textures/DustMote.png.meta
+Forward Air Controller/Assets/EffectExamples/Misc Effects/Textures/DustPuffSmall.png
+Forward Air Controller/Assets/EffectExamples/Misc Effects/Textures/DustPuffSmall.png.meta
+Forward Air Controller/Assets/EffectExamples/Misc Effects/Textures/FireFlyAlbedo.tif
+Forward Air Controller/Assets/EffectExamples/Misc Effects/Textures/FireFlyAlbedo.tif.meta
+Forward Air Controller/Assets/EffectExamples/Misc Effects/Textures/FireFlyEmission.tif
+Forward Air Controller/Assets/EffectExamples/Misc Effects/Textures/FireFlyEmission.tif.meta
+Forward Air Controller/Assets/EffectExamples/Misc Effects/Textures/FireFlyWings.png
+Forward Air Controller/Assets/EffectExamples/Misc Effects/Textures/FireFlyWings.png.meta
+Forward Air Controller/Assets/EffectExamples/Misc Effects/Textures/noise.tif
+Forward Air Controller/Assets/EffectExamples/Misc Effects/Textures/noise.tif.meta
+Forward Air Controller/Assets/EffectExamples/Misc Effects/Textures/Ramp01.png
+Forward Air Controller/Assets/EffectExamples/Misc Effects/Textures/Ramp01.png.meta
+Forward Air Controller/Assets/EffectExamples/Misc Effects/Textures/SmokePuff.png
+Forward Air Controller/Assets/EffectExamples/Misc Effects/Textures/SmokePuff.png.meta
+Forward Air Controller/Assets/EffectExamples/Misc Effects/Textures/SmokeySteam.tif
+Forward Air Controller/Assets/EffectExamples/Misc Effects/Textures/SmokeySteam.tif.meta
+Forward Air Controller/Assets/EffectExamples/Misc Effects/Textures/SparkParticle.tif
+Forward Air Controller/Assets/EffectExamples/Misc Effects/Textures/SparkParticle.tif.meta
+Forward Air Controller/Assets/EffectExamples/Smoke & Steam Effects.meta
+Forward Air Controller/Assets/EffectExamples/Smoke & Steam Effects/Materials.meta
+Forward Air Controller/Assets/EffectExamples/Smoke & Steam Effects/Materials/Dust.mat
+Forward Air Controller/Assets/EffectExamples/Smoke & Steam Effects/Materials/Dust.mat.meta
+Forward Air Controller/Assets/EffectExamples/Smoke & Steam Effects/Materials/Embers.mat
+Forward Air Controller/Assets/EffectExamples/Smoke & Steam Effects/Materials/Embers.mat.meta
+Forward Air Controller/Assets/EffectExamples/Smoke & Steam Effects/Materials/Flame01.mat
+Forward Air Controller/Assets/EffectExamples/Smoke & Steam Effects/Materials/Flame01.mat.meta
+Forward Air Controller/Assets/EffectExamples/Smoke & Steam Effects/Materials/GroundFog.mat
+Forward Air Controller/Assets/EffectExamples/Smoke & Steam Effects/Materials/GroundFog.mat.meta
+Forward Air Controller/Assets/EffectExamples/Smoke & Steam Effects/Materials/HeatDistortion.mat
+Forward Air Controller/Assets/EffectExamples/Smoke & Steam Effects/Materials/HeatDistortion.mat.meta
+Forward Air Controller/Assets/EffectExamples/Smoke & Steam Effects/Materials/RockDebris.mat
+Forward Air Controller/Assets/EffectExamples/Smoke & Steam Effects/Materials/RockDebris.mat.meta
+Forward Air Controller/Assets/EffectExamples/Smoke & Steam Effects/Materials/SandParticle.mat
+Forward Air Controller/Assets/EffectExamples/Smoke & Steam Effects/Materials/SandParticle.mat.meta
+Forward Air Controller/Assets/EffectExamples/Smoke & Steam Effects/Materials/Smoke02.mat
+Forward Air Controller/Assets/EffectExamples/Smoke & Steam Effects/Materials/Smoke02.mat.meta
+Forward Air Controller/Assets/EffectExamples/Smoke & Steam Effects/Materials/SmokeLight.mat
+Forward Air Controller/Assets/EffectExamples/Smoke & Steam Effects/Materials/SmokeLight.mat.meta
+Forward Air Controller/Assets/EffectExamples/Smoke & Steam Effects/Materials/SmokeySteam01.mat
+Forward Air Controller/Assets/EffectExamples/Smoke & Steam Effects/Materials/SmokeySteam01.mat.meta
+Forward Air Controller/Assets/EffectExamples/Smoke & Steam Effects/Materials/SmokeySteam02.mat
+Forward Air Controller/Assets/EffectExamples/Smoke & Steam Effects/Materials/SmokeySteam02.mat.meta
+Forward Air Controller/Assets/EffectExamples/Smoke & Steam Effects/Materials/SmokeySteam03.mat
+Forward Air Controller/Assets/EffectExamples/Smoke & Steam Effects/Materials/SmokeySteam03.mat.meta
+Forward Air Controller/Assets/EffectExamples/Smoke & Steam Effects/Materials/Twinkle.mat
+Forward Air Controller/Assets/EffectExamples/Smoke & Steam Effects/Materials/Twinkle.mat.meta
+Forward Air Controller/Assets/EffectExamples/Smoke & Steam Effects/Materials/wispySmoke.mat
+Forward Air Controller/Assets/EffectExamples/Smoke & Steam Effects/Materials/wispySmoke.mat.meta
+Forward Air Controller/Assets/EffectExamples/Smoke & Steam Effects/Models.meta
+Forward Air Controller/Assets/EffectExamples/Smoke & Steam Effects/Models/RockDebris.FBX
+Forward Air Controller/Assets/EffectExamples/Smoke & Steam Effects/Models/RockDebris.FBX.meta
+Forward Air Controller/Assets/EffectExamples/Smoke & Steam Effects/Prefabs.meta
+Forward Air Controller/Assets/EffectExamples/Smoke & Steam Effects/Prefabs/DustStorm.prefab
+Forward Air Controller/Assets/EffectExamples/Smoke & Steam Effects/Prefabs/DustStorm.prefab.meta
+Forward Air Controller/Assets/EffectExamples/Smoke & Steam Effects/Prefabs/GroundFog.prefab
+Forward Air Controller/Assets/EffectExamples/Smoke & Steam Effects/Prefabs/GroundFog.prefab.meta
+Forward Air Controller/Assets/EffectExamples/Smoke & Steam Effects/Prefabs/Heat Distortion.prefab
+Forward Air Controller/Assets/EffectExamples/Smoke & Steam Effects/Prefabs/Heat Distortion.prefab.meta
+Forward Air Controller/Assets/EffectExamples/Smoke & Steam Effects/Prefabs/PoisonGas.prefab
+Forward Air Controller/Assets/EffectExamples/Smoke & Steam Effects/Prefabs/PoisonGas.prefab.meta
+Forward Air Controller/Assets/EffectExamples/Smoke & Steam Effects/Prefabs/PressurisedSteam.prefab
+Forward Air Controller/Assets/EffectExamples/Smoke & Steam Effects/Prefabs/PressurisedSteam.prefab.meta
+Forward Air Controller/Assets/EffectExamples/Smoke & Steam Effects/Prefabs/RisingSteam.prefab
+Forward Air Controller/Assets/EffectExamples/Smoke & Steam Effects/Prefabs/RisingSteam.prefab.meta
+Forward Air Controller/Assets/EffectExamples/Smoke & Steam Effects/Prefabs/RocketTrail.prefab
+Forward Air Controller/Assets/EffectExamples/Smoke & Steam Effects/Prefabs/RocketTrail.prefab.meta
+Forward Air Controller/Assets/EffectExamples/Smoke & Steam Effects/Prefabs/SmokeEffect.prefab
+Forward Air Controller/Assets/EffectExamples/Smoke & Steam Effects/Prefabs/SmokeEffect.prefab.meta
+Forward Air Controller/Assets/EffectExamples/Smoke & Steam Effects/Prefabs/Steam.prefab
+Forward Air Controller/Assets/EffectExamples/Smoke & Steam Effects/Prefabs/Steam.prefab.meta
+Forward Air Controller/Assets/EffectExamples/Smoke & Steam Effects/Textures.meta
+Forward Air Controller/Assets/EffectExamples/Smoke & Steam Effects/Textures/Flame01.tif
+Forward Air Controller/Assets/EffectExamples/Smoke & Steam Effects/Textures/Flame01.tif.meta
+Forward Air Controller/Assets/EffectExamples/Smoke & Steam Effects/Textures/SmokeLoop.tif
+Forward Air Controller/Assets/EffectExamples/Smoke & Steam Effects/Textures/SmokeLoop.tif.meta
+Forward Air Controller/Assets/EffectExamples/Smoke & Steam Effects/Textures/SmokeLoop02.tif
+Forward Air Controller/Assets/EffectExamples/Smoke & Steam Effects/Textures/SmokeLoop02.tif.meta
+Forward Air Controller/Assets/EffectExamples/Smoke & Steam Effects/Textures/SmokePuff04.png
+Forward Air Controller/Assets/EffectExamples/Smoke & Steam Effects/Textures/SmokePuff04.png.meta
+Forward Air Controller/Assets/EffectExamples/Smoke & Steam Effects/Textures/SmokePuff04Normal.tif
+Forward Air Controller/Assets/EffectExamples/Smoke & Steam Effects/Textures/SmokePuff04Normal.tif.meta
+Forward Air Controller/Assets/EffectExamples/Smoke & Steam Effects/Textures/smokeysteam.tif
+Forward Air Controller/Assets/EffectExamples/Smoke & Steam Effects/Textures/smokeysteam.tif.meta
+Forward Air Controller/Assets/EffectExamples/Smoke & Steam Effects/Textures/TinyStones.png
+Forward Air Controller/Assets/EffectExamples/Smoke & Steam Effects/Textures/TinyStones.png.meta
+Forward Air Controller/Assets/EffectExamples/Smoke & Steam Effects/Textures/Twinkle.png
+Forward Air Controller/Assets/EffectExamples/Smoke & Steam Effects/Textures/Twinkle.png.meta
+Forward Air Controller/Assets/EffectExamples/Smoke & Steam Effects/Textures/wispySmoke.tif
+Forward Air Controller/Assets/EffectExamples/Smoke & Steam Effects/Textures/wispySmoke.tif.meta
+Forward Air Controller/Assets/EffectExamples/Smoke & Steam Effects/Textures/WispySmokeNormal.tif
+Forward Air Controller/Assets/EffectExamples/Smoke & Steam Effects/Textures/WispySmokeNormal.tif.meta
+Forward Air Controller/Assets/EffectExamples/Water Effects.meta
+Forward Air Controller/Assets/EffectExamples/Water Effects/Materials.meta
+Forward Air Controller/Assets/EffectExamples/Water Effects/Materials/Splash.mat
+Forward Air Controller/Assets/EffectExamples/Water Effects/Materials/Splash.mat.meta
+Forward Air Controller/Assets/EffectExamples/Water Effects/Materials/Splash02.mat
+Forward Air Controller/Assets/EffectExamples/Water Effects/Materials/Splash02.mat.meta
+Forward Air Controller/Assets/EffectExamples/Water Effects/Materials/Water.mat
+Forward Air Controller/Assets/EffectExamples/Water Effects/Materials/Water.mat.meta
+Forward Air Controller/Assets/EffectExamples/Water Effects/Materials/WaterDropBig.mat
+Forward Air Controller/Assets/EffectExamples/Water Effects/Materials/WaterDropBig.mat.meta
+Forward Air Controller/Assets/EffectExamples/Water Effects/Materials/WaterDropSmall.mat
+Forward Air Controller/Assets/EffectExamples/Water Effects/Materials/WaterDropSmall.mat.meta
+Forward Air Controller/Assets/EffectExamples/Water Effects/Materials/WaterFog.mat
+Forward Air Controller/Assets/EffectExamples/Water Effects/Materials/WaterFog.mat.meta
+Forward Air Controller/Assets/EffectExamples/Water Effects/Materials/WaterRipple.mat
+Forward Air Controller/Assets/EffectExamples/Water Effects/Materials/WaterRipple.mat.meta
+Forward Air Controller/Assets/EffectExamples/Water Effects/Models.meta
+Forward Air Controller/Assets/EffectExamples/Water Effects/Models/DropSplash.fbx
+Forward Air Controller/Assets/EffectExamples/Water Effects/Models/DropSplash.fbx.meta
+Forward Air Controller/Assets/EffectExamples/Water Effects/Prefabs.meta
+Forward Air Controller/Assets/EffectExamples/Water Effects/Prefabs/BigSplash.prefab
+Forward Air Controller/Assets/EffectExamples/Water Effects/Prefabs/BigSplash.prefab.meta
+Forward Air Controller/Assets/EffectExamples/Water Effects/Prefabs/Shower.prefab
+Forward Air Controller/Assets/EffectExamples/Water Effects/Prefabs/Shower.prefab.meta
+Forward Air Controller/Assets/EffectExamples/Water Effects/Prefabs/WaterLeak.prefab
+Forward Air Controller/Assets/EffectExamples/Water Effects/Prefabs/WaterLeak.prefab.meta
+Forward Air Controller/Assets/EffectExamples/Water Effects/Textures.meta
+Forward Air Controller/Assets/EffectExamples/Water Effects/Textures/RippleAlbedo.png
+Forward Air Controller/Assets/EffectExamples/Water Effects/Textures/RippleAlbedo.png.meta
+Forward Air Controller/Assets/EffectExamples/Water Effects/Textures/RippleNormal.tif
+Forward Air Controller/Assets/EffectExamples/Water Effects/Textures/RippleNormal.tif.meta
+Forward Air Controller/Assets/EffectExamples/Water Effects/Textures/SphereAlbedo.tif
+Forward Air Controller/Assets/EffectExamples/Water Effects/Textures/SphereAlbedo.tif.meta
+Forward Air Controller/Assets/EffectExamples/Water Effects/Textures/Splash01.tif
+Forward Air Controller/Assets/EffectExamples/Water Effects/Textures/Splash01.tif.meta
+Forward Air Controller/Assets/EffectExamples/Water Effects/Textures/Splash01Normal.tif
+Forward Air Controller/Assets/EffectExamples/Water Effects/Textures/Splash01Normal.tif.meta
+Forward Air Controller/Assets/EffectExamples/Water Effects/Textures/Splash04Albedo.tif
+Forward Air Controller/Assets/EffectExamples/Water Effects/Textures/Splash04Albedo.tif.meta
+Forward Air Controller/Assets/EffectExamples/Water Effects/Textures/Splash04Normal.tif
+Forward Air Controller/Assets/EffectExamples/Water Effects/Textures/Splash04Normal.tif.meta
+Forward Air Controller/Assets/EffectExamples/Water Effects/Textures/SplatAlbedo.tif
+Forward Air Controller/Assets/EffectExamples/Water Effects/Textures/SplatAlbedo.tif.meta
+Forward Air Controller/Assets/EffectExamples/Water Effects/Textures/SplatNormal.tif
+Forward Air Controller/Assets/EffectExamples/Water Effects/Textures/SplatNormal.tif.meta
+Forward Air Controller/Assets/EffectExamples/Water Effects/Textures/WaterNormal.tif
+Forward Air Controller/Assets/EffectExamples/Water Effects/Textures/WaterNormal.tif.meta
+Forward Air Controller/Assets/EffectExamples/Weapon Effects.meta
+Forward Air Controller/Assets/EffectExamples/Weapon Effects/Materials.meta
+Forward Air Controller/Assets/EffectExamples/Weapon Effects/Materials/BulletDecalMetal.mat
+Forward Air Controller/Assets/EffectExamples/Weapon Effects/Materials/BulletDecalMetal.mat.meta
+Forward Air Controller/Assets/EffectExamples/Weapon Effects/Materials/BulletDecalSand.mat
+Forward Air Controller/Assets/EffectExamples/Weapon Effects/Materials/BulletDecalSand.mat.meta
+Forward Air Controller/Assets/EffectExamples/Weapon Effects/Materials/BulletDecalStone.mat
+Forward Air Controller/Assets/EffectExamples/Weapon Effects/Materials/BulletDecalStone.mat.meta
+Forward Air Controller/Assets/EffectExamples/Weapon Effects/Materials/BulletDecalWood.mat
+Forward Air Controller/Assets/EffectExamples/Weapon Effects/Materials/BulletDecalWood.mat.meta
+Forward Air Controller/Assets/EffectExamples/Weapon Effects/Materials/BulletFleshDecal.mat
+Forward Air Controller/Assets/EffectExamples/Weapon Effects/Materials/BulletFleshDecal.mat.meta
+Forward Air Controller/Assets/EffectExamples/Weapon Effects/Materials/DustPuffParticle.mat
+Forward Air Controller/Assets/EffectExamples/Weapon Effects/Materials/DustPuffParticle.mat.meta
+Forward Air Controller/Assets/EffectExamples/Weapon Effects/Materials/FleshSurface.mat
+Forward Air Controller/Assets/EffectExamples/Weapon Effects/Materials/FleshSurface.mat.meta
+Forward Air Controller/Assets/EffectExamples/Weapon Effects/Materials/GoopMist.mat
+Forward Air Controller/Assets/EffectExamples/Weapon Effects/Materials/GoopMist.mat.meta
+Forward Air Controller/Assets/EffectExamples/Weapon Effects/Materials/GoopSplat2.mat
+Forward Air Controller/Assets/EffectExamples/Weapon Effects/Materials/GoopSplat2.mat.meta
+Forward Air Controller/Assets/EffectExamples/Weapon Effects/Materials/GoopStreak.mat
+Forward Air Controller/Assets/EffectExamples/Weapon Effects/Materials/GoopStreak.mat.meta
+Forward Air Controller/Assets/EffectExamples/Weapon Effects/Materials/MetalSparks.mat
+Forward Air Controller/Assets/EffectExamples/Weapon Effects/Materials/MetalSparks.mat.meta
+Forward Air Controller/Assets/EffectExamples/Weapon Effects/Materials/MetalSurface.mat
+Forward Air Controller/Assets/EffectExamples/Weapon Effects/Materials/MetalSurface.mat.meta
+Forward Air Controller/Assets/EffectExamples/Weapon Effects/Materials/MuzzleFlash01.mat
+Forward Air Controller/Assets/EffectExamples/Weapon Effects/Materials/MuzzleFlash01.mat.meta
+Forward Air Controller/Assets/EffectExamples/Weapon Effects/Materials/RockDebris.mat
+Forward Air Controller/Assets/EffectExamples/Weapon Effects/Materials/RockDebris.mat.meta
+Forward Air Controller/Assets/EffectExamples/Weapon Effects/Materials/SandSurface.mat
+Forward Air Controller/Assets/EffectExamples/Weapon Effects/Materials/SandSurface.mat.meta
+Forward Air Controller/Assets/EffectExamples/Weapon Effects/Materials/StoneSurface.mat
+Forward Air Controller/Assets/EffectExamples/Weapon Effects/Materials/StoneSurface.mat.meta
+Forward Air Controller/Assets/EffectExamples/Weapon Effects/Materials/TinyStonesParticle.mat
+Forward Air Controller/Assets/EffectExamples/Weapon Effects/Materials/TinyStonesParticle.mat.meta
+Forward Air Controller/Assets/EffectExamples/Weapon Effects/Materials/WaterStreamParticle.mat
+Forward Air Controller/Assets/EffectExamples/Weapon Effects/Materials/WaterStreamParticle.mat.meta
+Forward Air Controller/Assets/EffectExamples/Weapon Effects/Materials/WoodSplintersParticle.mat
+Forward Air Controller/Assets/EffectExamples/Weapon Effects/Materials/WoodSplintersParticle.mat.meta
+Forward Air Controller/Assets/EffectExamples/Weapon Effects/Materials/WoodSurface.mat
+Forward Air Controller/Assets/EffectExamples/Weapon Effects/Materials/WoodSurface.mat.meta
+Forward Air Controller/Assets/EffectExamples/Weapon Effects/Prefabs.meta
+Forward Air Controller/Assets/EffectExamples/Weapon Effects/Prefabs/FleshImpacts.prefab
+Forward Air Controller/Assets/EffectExamples/Weapon Effects/Prefabs/FleshImpacts.prefab.meta
+Forward Air Controller/Assets/EffectExamples/Weapon Effects/Prefabs/MetalImpacts.prefab
+Forward Air Controller/Assets/EffectExamples/Weapon Effects/Prefabs/MetalImpacts.prefab.meta
+Forward Air Controller/Assets/EffectExamples/Weapon Effects/Prefabs/MuzzleFlash01.prefab
+Forward Air Controller/Assets/EffectExamples/Weapon Effects/Prefabs/MuzzleFlash01.prefab.meta
+Forward Air Controller/Assets/EffectExamples/Weapon Effects/Prefabs/SandImpacts.prefab
+Forward Air Controller/Assets/EffectExamples/Weapon Effects/Prefabs/SandImpacts.prefab.meta
+Forward Air Controller/Assets/EffectExamples/Weapon Effects/Prefabs/StoneImpacts.prefab
+Forward Air Controller/Assets/EffectExamples/Weapon Effects/Prefabs/StoneImpacts.prefab.meta
+Forward Air Controller/Assets/EffectExamples/Weapon Effects/Prefabs/WoodImpacts.prefab
+Forward Air Controller/Assets/EffectExamples/Weapon Effects/Prefabs/WoodImpacts.prefab.meta
+Forward Air Controller/Assets/EffectExamples/Weapon Effects/Textures.meta
+Forward Air Controller/Assets/EffectExamples/Weapon Effects/Textures/BulletHoleMetalThroughAlbedo.tif
+Forward Air Controller/Assets/EffectExamples/Weapon Effects/Textures/BulletHoleMetalThroughAlbedo.tif.meta
+Forward Air Controller/Assets/EffectExamples/Weapon Effects/Textures/BulletHoleMetalThroughNormal.tif
+Forward Air Controller/Assets/EffectExamples/Weapon Effects/Textures/BulletHoleMetalThroughNormal.tif.meta
+Forward Air Controller/Assets/EffectExamples/Weapon Effects/Textures/BulletHoleRockAlbedo.tif
+Forward Air Controller/Assets/EffectExamples/Weapon Effects/Textures/BulletHoleRockAlbedo.tif.meta
+Forward Air Controller/Assets/EffectExamples/Weapon Effects/Textures/BulletHoleRockHeight.tif
+Forward Air Controller/Assets/EffectExamples/Weapon Effects/Textures/BulletHoleRockHeight.tif.meta
+Forward Air Controller/Assets/EffectExamples/Weapon Effects/Textures/BulletHoleRockNormal.tif
+Forward Air Controller/Assets/EffectExamples/Weapon Effects/Textures/BulletHoleRockNormal.tif.meta
+Forward Air Controller/Assets/EffectExamples/Weapon Effects/Textures/DustPuffSmallParticleSheet.png
+Forward Air Controller/Assets/EffectExamples/Weapon Effects/Textures/DustPuffSmallParticleSheet.png.meta
+Forward Air Controller/Assets/EffectExamples/Weapon Effects/Textures/FleshBulletHoleAlbedo.tif
+Forward Air Controller/Assets/EffectExamples/Weapon Effects/Textures/FleshBulletHoleAlbedo.tif.meta
+Forward Air Controller/Assets/EffectExamples/Weapon Effects/Textures/FleshBulletHoleHeight.tif
+Forward Air Controller/Assets/EffectExamples/Weapon Effects/Textures/FleshBulletHoleHeight.tif.meta
+Forward Air Controller/Assets/EffectExamples/Weapon Effects/Textures/FleshBulletHoleNormal.tif
+Forward Air Controller/Assets/EffectExamples/Weapon Effects/Textures/FleshBulletHoleNormal.tif.meta
+Forward Air Controller/Assets/EffectExamples/Weapon Effects/Textures/FleshNormals.tif
+Forward Air Controller/Assets/EffectExamples/Weapon Effects/Textures/FleshNormals.tif.meta
+Forward Air Controller/Assets/EffectExamples/Weapon Effects/Textures/GoopSprayAlbedo.tif
+Forward Air Controller/Assets/EffectExamples/Weapon Effects/Textures/GoopSprayAlbedo.tif.meta
+Forward Air Controller/Assets/EffectExamples/Weapon Effects/Textures/GoopSprayNormal.tif
+Forward Air Controller/Assets/EffectExamples/Weapon Effects/Textures/GoopSprayNormal.tif.meta
+Forward Air Controller/Assets/EffectExamples/Weapon Effects/Textures/GoopStreakAlbedo.tif
+Forward Air Controller/Assets/EffectExamples/Weapon Effects/Textures/GoopStreakAlbedo.tif.meta
+Forward Air Controller/Assets/EffectExamples/Weapon Effects/Textures/GoopStreakNormal.tif
+Forward Air Controller/Assets/EffectExamples/Weapon Effects/Textures/GoopStreakNormal.tif.meta
+Forward Air Controller/Assets/EffectExamples/Weapon Effects/Textures/MuzzleFlashFront.tif
+Forward Air Controller/Assets/EffectExamples/Weapon Effects/Textures/MuzzleFlashFront.tif.meta
+Forward Air Controller/Assets/EffectExamples/Weapon Effects/Textures/SandDecalAlbedo.tif
+Forward Air Controller/Assets/EffectExamples/Weapon Effects/Textures/SandDecalAlbedo.tif.meta
+Forward Air Controller/Assets/EffectExamples/Weapon Effects/Textures/SandDecalNormal.tif
+Forward Air Controller/Assets/EffectExamples/Weapon Effects/Textures/SandDecalNormal.tif.meta
+Forward Air Controller/Assets/EffectExamples/Weapon Effects/Textures/SparkParticle.tif
+Forward Air Controller/Assets/EffectExamples/Weapon Effects/Textures/SparkParticle.tif.meta
+Forward Air Controller/Assets/EffectExamples/Weapon Effects/Textures/StoneAlbedo.tif
+Forward Air Controller/Assets/EffectExamples/Weapon Effects/Textures/StoneAlbedo.tif.meta
+Forward Air Controller/Assets/EffectExamples/Weapon Effects/Textures/StoneNormal.tif
+Forward Air Controller/Assets/EffectExamples/Weapon Effects/Textures/StoneNormal.tif.meta
+Forward Air Controller/Assets/EffectExamples/Weapon Effects/Textures/StreamNormal.tif
+Forward Air Controller/Assets/EffectExamples/Weapon Effects/Textures/StreamNormal.tif.meta
+Forward Air Controller/Assets/EffectExamples/Weapon Effects/Textures/TinyStones.png
+Forward Air Controller/Assets/EffectExamples/Weapon Effects/Textures/TinyStones.png.meta
+Forward Air Controller/Assets/EffectExamples/Weapon Effects/Textures/TinyStonesNormals.tif
+Forward Air Controller/Assets/EffectExamples/Weapon Effects/Textures/TinyStonesNormals.tif.meta
+Forward Air Controller/Assets/EffectExamples/Weapon Effects/Textures/WoodAlbedo.tif
+Forward Air Controller/Assets/EffectExamples/Weapon Effects/Textures/WoodAlbedo.tif.meta
+Forward Air Controller/Assets/EffectExamples/Weapon Effects/Textures/WoodBulletHoleAlbedo.tif
+Forward Air Controller/Assets/EffectExamples/Weapon Effects/Textures/WoodBulletHoleAlbedo.tif.meta
+Forward Air Controller/Assets/EffectExamples/Weapon Effects/Textures/WoodBulletHoleDepth.tif
+Forward Air Controller/Assets/EffectExamples/Weapon Effects/Textures/WoodBulletHoleDepth.tif.meta
+Forward Air Controller/Assets/EffectExamples/Weapon Effects/Textures/WoodBulletHoleNormal.tif
+Forward Air Controller/Assets/EffectExamples/Weapon Effects/Textures/WoodBulletHoleNormal.tif.meta
+Forward Air Controller/Assets/EffectExamples/Weapon Effects/Textures/WoodNormals.tif
+Forward Air Controller/Assets/EffectExamples/Weapon Effects/Textures/WoodNormals.tif.meta
+Forward Air Controller/Assets/EffectExamples/Weapon Effects/Textures/WoodOcclusion.tif
+Forward Air Controller/Assets/EffectExamples/Weapon Effects/Textures/WoodOcclusion.tif.meta
+Forward Air Controller/Assets/EffectExamples/Weapon Effects/Textures/woodSplintersAlbedo.tif
+Forward Air Controller/Assets/EffectExamples/Weapon Effects/Textures/woodSplintersAlbedo.tif.meta
+Forward Air Controller/Assets/EffectExamples/Weapon Effects/Textures/woodSplintersNormal.tif
+Forward Air Controller/Assets/EffectExamples/Weapon Effects/Textures/woodSplintersNormal.tif.meta
+Forward Air Controller/Assets/Forward Aircraft Controller Game/Scenes/FAC.unity
+Forward Air Controller/Assets/Main Camera Profile.asset
+Forward Air Controller/Assets/Main Camera Profile.asset.meta
+Forward Air Controller/Assets/Readme.asset
+Forward Air Controller/Assets/Readme.asset.meta
+Forward Air Controller/Assets/Scenes/Main.meta
+Forward Air Controller/Assets/Scenes/Main.unity
+Forward Air Controller/Assets/Scenes/Main.unity.meta
+Forward Air Controller/Assets/Scenes/Main/LightingData.asset
+Forward Air Controller/Assets/Scenes/Main/LightingData.asset.meta
+Forward Air Controller/Assets/Scenes/Main/Lightmap-0_comp_dir.png
+Forward Air Controller/Assets/Scenes/Main/Lightmap-0_comp_dir.png.meta
+Forward Air Controller/Assets/Scenes/Main/Lightmap-0_comp_light.exr
+Forward Air Controller/Assets/Scenes/Main/Lightmap-0_comp_light.exr.meta
+Forward Air Controller/Assets/Scenes/Main/Lightmap-1_comp_dir.png
+Forward Air Controller/Assets/Scenes/Main/Lightmap-1_comp_dir.png.meta
+Forward Air Controller/Assets/Scenes/Main/Lightmap-1_comp_light.exr
+Forward Air Controller/Assets/Scenes/Main/Lightmap-1_comp_light.exr.meta
+Forward Air Controller/Assets/Scenes/Main/ReflectionProbe-0.exr
+Forward Air Controller/Assets/Scenes/Main/ReflectionProbe-0.exr.meta
+Forward Air Controller/Assets/Scenes/Main/ReflectionProbe-1.exr
+Forward Air Controller/Assets/Scenes/Main/ReflectionProbe-1.exr.meta
+Forward Air Controller/Assets/Scenes/Main/ReflectionProbe-2.exr
+Forward Air Controller/Assets/Scenes/Main/ReflectionProbe-2.exr.meta
+Forward Air Controller/Assets/Scenes/Main/ReflectionProbe-3.exr
+Forward Air Controller/Assets/Scenes/Main/ReflectionProbe-3.exr.meta
+Forward Air Controller/Assets/Scenes/Main/ReflectionProbe-4.exr
+Forward Air Controller/Assets/Scenes/Main/ReflectionProbe-4.exr.meta
+Forward Air Controller/Assets/Scenes/Main/ReflectionProbe-5.exr
+Forward Air Controller/Assets/Scenes/Main/ReflectionProbe-5.exr.meta
+Forward Air Controller/Assets/Scenes/Main/ReflectionProbe-6.exr
+Forward Air Controller/Assets/Scenes/Main/ReflectionProbe-6.exr.meta
+Forward Air Controller/Assets/Scenes/Main/ReflectionProbe-7.exr
+Forward Air Controller/Assets/Scenes/Main/ReflectionProbe-7.exr.meta
+Forward Air Controller/Assets/Scenes/Main/ReflectionProbe-8.exr
+Forward Air Controller/Assets/Scenes/Main/ReflectionProbe-8.exr.meta
+Forward Air Controller/Assets/Scenes/Main/ReflectionProbe-9.exr
+Forward Air Controller/Assets/Scenes/Main/ReflectionProbe-9.exr.meta
+Forward Air Controller/Assets/Scenes/Profiles.meta
+Forward Air Controller/Assets/Scenes/Profiles/DefaultProfile.asset
+Forward Air Controller/Assets/Scenes/Profiles/DefaultProfile.asset.meta
+Forward Air Controller/Assets/Shared.meta
+Forward Air Controller/Assets/Shared/Environment.meta
+Forward Air Controller/Assets/Shared/Environment/Materials.meta
+Forward Air Controller/Assets/Shared/Environment/Materials/ConcreteFloor.mat
+Forward Air Controller/Assets/Shared/Environment/Materials/ConcreteFloor.mat.meta
+Forward Air Controller/Assets/Shared/Environment/Materials/ConcreteWall.mat
+Forward Air Controller/Assets/Shared/Environment/Materials/ConcreteWall.mat.meta
+Forward Air Controller/Assets/Shared/Environment/Materials/Light.mat
+Forward Air Controller/Assets/Shared/Environment/Materials/Light.mat.meta
+Forward Air Controller/Assets/Shared/Environment/Materials/LinesWhite.mat
+Forward Air Controller/Assets/Shared/Environment/Materials/LinesWhite.mat.meta
+Forward Air Controller/Assets/Shared/Environment/Materials/MetalRailing.mat
+Forward Air Controller/Assets/Shared/Environment/Materials/MetalRailing.mat.meta
+Forward Air Controller/Assets/Shared/Environment/Materials/MetalTrim.mat
+Forward Air Controller/Assets/Shared/Environment/Materials/MetalTrim.mat.meta
+Forward Air Controller/Assets/Shared/Environment/Materials/ShadowCaster.mat
+Forward Air Controller/Assets/Shared/Environment/Materials/ShadowCaster.mat.meta
+Forward Air Controller/Assets/Shared/Environment/Materials/Skybox.mat
+Forward Air Controller/Assets/Shared/Environment/Materials/Skybox.mat.meta
+Forward Air Controller/Assets/Shared/Environment/Materials/UnityLogo.mat
+Forward Air Controller/Assets/Shared/Environment/Materials/UnityLogo.mat.meta
+Forward Air Controller/Assets/Shared/Environment/Models.meta
+Forward Air Controller/Assets/Shared/Environment/Models/AreaLine.fbx
+Forward Air Controller/Assets/Shared/Environment/Models/AreaLine.fbx.meta
+Forward Air Controller/Assets/Shared/Environment/Models/CornerWall.fbx
+Forward Air Controller/Assets/Shared/Environment/Models/CornerWall.fbx.meta
+Forward Air Controller/Assets/Shared/Environment/Models/EndWall.fbx
+Forward Air Controller/Assets/Shared/Environment/Models/EndWall.fbx.meta
+Forward Air Controller/Assets/Shared/Environment/Models/FloorLong.fbx
+Forward Air Controller/Assets/Shared/Environment/Models/FloorLong.fbx.meta
+Forward Air Controller/Assets/Shared/Environment/Models/FloorMiddle.fbx
+Forward Air Controller/Assets/Shared/Environment/Models/FloorMiddle.fbx.meta
+Forward Air Controller/Assets/Shared/Environment/Models/FloorShort.fbx
+Forward Air Controller/Assets/Shared/Environment/Models/FloorShort.fbx.meta
+Forward Air Controller/Assets/Shared/Environment/Models/FloorTiny.fbx
+Forward Air Controller/Assets/Shared/Environment/Models/FloorTiny.fbx.meta
+Forward Air Controller/Assets/Shared/Environment/Models/LongOverhangWall.fbx
+Forward Air Controller/Assets/Shared/Environment/Models/LongOverhangWall.fbx.meta
+Forward Air Controller/Assets/Shared/Environment/Models/Railing.fbx
+Forward Air Controller/Assets/Shared/Environment/Models/Railing.fbx.meta
+Forward Air Controller/Assets/Shared/Environment/Models/SideWall.fbx
+Forward Air Controller/Assets/Shared/Environment/Models/SideWall.fbx.meta
+Forward Air Controller/Assets/Shared/Environment/Models/SmallLight.fbx
+Forward Air Controller/Assets/Shared/Environment/Models/SmallLight.fbx.meta
+Forward Air Controller/Assets/Shared/Environment/Models/Stairs.fbx
+Forward Air Controller/Assets/Shared/Environment/Models/Stairs.fbx.meta
+Forward Air Controller/Assets/Shared/Environment/Models/Step.fbx
+Forward Air Controller/Assets/Shared/Environment/Models/Step.fbx.meta
+Forward Air Controller/Assets/Shared/Environment/Prefabs.meta
+Forward Air Controller/Assets/Shared/Environment/Prefabs/CornerWall.prefab
+Forward Air Controller/Assets/Shared/Environment/Prefabs/CornerWall.prefab.meta
+Forward Air Controller/Assets/Shared/Environment/Prefabs/EndWall.prefab
+Forward Air Controller/Assets/Shared/Environment/Prefabs/EndWall.prefab.meta
+Forward Air Controller/Assets/Shared/Environment/Prefabs/FloorLong.prefab
+Forward Air Controller/Assets/Shared/Environment/Prefabs/FloorLong.prefab.meta
+Forward Air Controller/Assets/Shared/Environment/Prefabs/FloorMiddle.prefab
+Forward Air Controller/Assets/Shared/Environment/Prefabs/FloorMiddle.prefab.meta
+Forward Air Controller/Assets/Shared/Environment/Prefabs/FloorShort.prefab
+Forward Air Controller/Assets/Shared/Environment/Prefabs/FloorShort.prefab.meta
+Forward Air Controller/Assets/Shared/Environment/Prefabs/FloorTiny.prefab
+Forward Air Controller/Assets/Shared/Environment/Prefabs/FloorTiny.prefab.meta
+Forward Air Controller/Assets/Shared/Environment/Prefabs/LongOverhangWall.prefab
+Forward Air Controller/Assets/Shared/Environment/Prefabs/LongOverhangWall.prefab.meta
+Forward Air Controller/Assets/Shared/Environment/Prefabs/Railing.prefab
+Forward Air Controller/Assets/Shared/Environment/Prefabs/Railing.prefab.meta
+Forward Air Controller/Assets/Shared/Environment/Prefabs/SideWall.prefab
+Forward Air Controller/Assets/Shared/Environment/Prefabs/SideWall.prefab.meta
+Forward Air Controller/Assets/Shared/Environment/Prefabs/SmallLight.prefab
+Forward Air Controller/Assets/Shared/Environment/Prefabs/SmallLight.prefab.meta
+Forward Air Controller/Assets/Shared/Environment/Prefabs/Stairs.prefab
+Forward Air Controller/Assets/Shared/Environment/Prefabs/Stairs.prefab.meta
+Forward Air Controller/Assets/Shared/Environment/Prefabs/Step.prefab
+Forward Air Controller/Assets/Shared/Environment/Prefabs/Step.prefab.meta
+Forward Air Controller/Assets/Shared/Environment/Textures.meta
+Forward Air Controller/Assets/Shared/Environment/Textures/ConcreteFloor_Albedo.tif
+Forward Air Controller/Assets/Shared/Environment/Textures/ConcreteFloor_Albedo.tif.meta
+Forward Air Controller/Assets/Shared/Environment/Textures/ConcreteFloor_AmbientOcclusion.tif
+Forward Air Controller/Assets/Shared/Environment/Textures/ConcreteFloor_AmbientOcclusion.tif.meta
+Forward Air Controller/Assets/Shared/Environment/Textures/ConcreteFloor_MetallicSmooth.tif
+Forward Air Controller/Assets/Shared/Environment/Textures/ConcreteFloor_MetallicSmooth.tif.meta
+Forward Air Controller/Assets/Shared/Environment/Textures/ConcreteFloor_Normal.tif
+Forward Air Controller/Assets/Shared/Environment/Textures/ConcreteFloor_Normal.tif.meta
+Forward Air Controller/Assets/Shared/Environment/Textures/ConcreteWall_Albedo.tif
+Forward Air Controller/Assets/Shared/Environment/Textures/ConcreteWall_Albedo.tif.meta
+Forward Air Controller/Assets/Shared/Environment/Textures/ConcreteWall_AmbientOcclusion.tif
+Forward Air Controller/Assets/Shared/Environment/Textures/ConcreteWall_AmbientOcclusion.tif.meta
+Forward Air Controller/Assets/Shared/Environment/Textures/ConcreteWall_MetallicSmooth.tif
+Forward Air Controller/Assets/Shared/Environment/Textures/ConcreteWall_MetallicSmooth.tif.meta
+Forward Air Controller/Assets/Shared/Environment/Textures/ConcreteWall_normal.tif
+Forward Air Controller/Assets/Shared/Environment/Textures/ConcreteWall_normal.tif.meta
+Forward Air Controller/Assets/Shared/Environment/Textures/MetalTrim_Albedo.tif
+Forward Air Controller/Assets/Shared/Environment/Textures/MetalTrim_Albedo.tif.meta
+Forward Air Controller/Assets/Shared/Environment/Textures/MetalTrim_MetallicSmooth.tif
+Forward Air Controller/Assets/Shared/Environment/Textures/MetalTrim_MetallicSmooth.tif.meta
+Forward Air Controller/Assets/Shared/Environment/Textures/MetalTrim_Normal.tif
+Forward Air Controller/Assets/Shared/Environment/Textures/MetalTrim_Normal.tif.meta
+Forward Air Controller/Assets/Shared/Environment/Textures/PaintLines_Albedo.tif
+Forward Air Controller/Assets/Shared/Environment/Textures/PaintLines_Albedo.tif.meta
+Forward Air Controller/Assets/Shared/Environment/Textures/PaintLines_normal.tif
+Forward Air Controller/Assets/Shared/Environment/Textures/PaintLines_normal.tif.meta
+Forward Air Controller/Assets/Shared/Prefabs.meta
+Forward Air Controller/Assets/Shared/Prefabs/Player.prefab
+Forward Air Controller/Assets/Shared/Prefabs/Player.prefab.meta
+Forward Air Controller/Assets/Shared/Prefabs/WorldSpaceLabel.prefab
+Forward Air Controller/Assets/Shared/Prefabs/WorldSpaceLabel.prefab.meta
+Forward Air Controller/Assets/Shared/Ramps.meta
+Forward Air Controller/Assets/Shared/Ramps/Editor.meta
+Forward Air Controller/Assets/Shared/Ramps/Editor/RampAssetEditor.cs
+Forward Air Controller/Assets/Shared/Ramps/Editor/RampAssetEditor.cs.meta
+Forward Air Controller/Assets/Shared/Ramps/RampBaker.asset
+Forward Air Controller/Assets/Shared/Ramps/RampBaker.asset.meta
+Forward Air Controller/Assets/Shared/Ramps/Runtime.meta
+Forward Air Controller/Assets/Shared/Ramps/Runtime/RampAsset.cs
+Forward Air Controller/Assets/Shared/Ramps/Runtime/RampAsset.cs.meta
+Forward Air Controller/Assets/Shared/Scripts.meta
+Forward Air Controller/Assets/Shared/Scripts/AdjustTimeScale.cs
+Forward Air Controller/Assets/Shared/Scripts/AdjustTimeScale.cs.meta
+Forward Air Controller/Assets/Shared/Scripts/ProximityActivate.cs
+Forward Air Controller/Assets/Shared/Scripts/ProximityActivate.cs.meta
+Forward Air Controller/Assets/Shared/Scripts/SimpleCameraController.cs
+Forward Air Controller/Assets/Shared/Scripts/SimpleCameraController.cs.meta
+Forward Air Controller/Assets/Shared/Scripts/SimpleCharacterMotor.cs
+Forward Air Controller/Assets/Shared/Scripts/SimpleCharacterMotor.cs.meta
+Forward Air Controller/Assets/Shared/Sprites.meta
+Forward Air Controller/Assets/Shared/Sprites/Info.png
+Forward Air Controller/Assets/Shared/Sprites/Info.png.meta
+Forward Air Controller/Assets/Shared/Sprites/TitleBorder.png
+Forward Air Controller/Assets/Shared/Sprites/TitleBorder.png.meta
+Forward Air Controller/Assets/Shared/Sprites/UnityLogo.png
+Forward Air Controller/Assets/Shared/Sprites/UnityLogo.png.meta
+Forward Air Controller/Assets/TextMesh Pro.meta
+Forward Air Controller/Assets/TextMesh Pro/Documentation.meta
+Forward Air Controller/Assets/TextMesh Pro/Documentation/TextMesh Pro User Guide 2016.pdf
+Forward Air Controller/Assets/TextMesh Pro/Documentation/TextMesh Pro User Guide 2016.pdf.meta
+Forward Air Controller/Assets/TextMesh Pro/Resources.meta
+Forward Air Controller/Assets/TextMesh Pro/Resources/Fonts & Materials.meta
+Forward Air Controller/Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Drop Shadow.mat
+Forward Air Controller/Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Drop Shadow.mat.meta
+Forward Air Controller/Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Outline.mat
+Forward Air Controller/Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Outline.mat.meta
+Forward Air Controller/Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF.asset
+Forward Air Controller/Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF.asset.meta
+Forward Air Controller/Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF.asset.meta~HEAD
+Forward Air Controller/Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF.asset.meta~HEAD.meta
+Forward Air Controller/Assets/TextMesh Pro/Resources/LineBreaking Following Characters.txt
+Forward Air Controller/Assets/TextMesh Pro/Resources/LineBreaking Following Characters.txt.meta
+Forward Air Controller/Assets/TextMesh Pro/Resources/LineBreaking Leading Characters.txt
+Forward Air Controller/Assets/TextMesh Pro/Resources/LineBreaking Leading Characters.txt.meta
+Forward Air Controller/Assets/TextMesh Pro/Resources/Shaders.meta
+Forward Air Controller/Assets/TextMesh Pro/Resources/Shaders/TMP_Bitmap-Mobile.shader
+Forward Air Controller/Assets/TextMesh Pro/Resources/Shaders/TMP_Bitmap-Mobile.shader.meta
+Forward Air Controller/Assets/TextMesh Pro/Resources/Shaders/TMP_Bitmap.shader
+Forward Air Controller/Assets/TextMesh Pro/Resources/Shaders/TMP_Bitmap.shader.meta
+Forward Air Controller/Assets/TextMesh Pro/Resources/Shaders/TMP_SDF Overlay.shader
+Forward Air Controller/Assets/TextMesh Pro/Resources/Shaders/TMP_SDF Overlay.shader.meta
+Forward Air Controller/Assets/TextMesh Pro/Resources/Shaders/TMP_SDF-Mobile Masking.shader
+Forward Air Controller/Assets/TextMesh Pro/Resources/Shaders/TMP_SDF-Mobile Masking.shader.meta
+Forward Air Controller/Assets/TextMesh Pro/Resources/Shaders/TMP_SDF-Mobile Overlay.shader
+Forward Air Controller/Assets/TextMesh Pro/Resources/Shaders/TMP_SDF-Mobile Overlay.shader.meta
+Forward Air Controller/Assets/TextMesh Pro/Resources/Shaders/TMP_SDF-Mobile.shader
+Forward Air Controller/Assets/TextMesh Pro/Resources/Shaders/TMP_SDF-Mobile.shader.meta
+Forward Air Controller/Assets/TextMesh Pro/Resources/Shaders/TMP_SDF-Surface-Mobile.shader
+Forward Air Controller/Assets/TextMesh Pro/Resources/Shaders/TMP_SDF-Surface-Mobile.shader.meta
+Forward Air Controller/Assets/TextMesh Pro/Resources/Shaders/TMP_SDF-Surface.shader
+Forward Air Controller/Assets/TextMesh Pro/Resources/Shaders/TMP_SDF-Surface.shader.meta
+Forward Air Controller/Assets/TextMesh Pro/Resources/Shaders/TMP_SDF.shader
+Forward Air Controller/Assets/TextMesh Pro/Resources/Shaders/TMP_SDF.shader.meta
+Forward Air Controller/Assets/TextMesh Pro/Resources/Shaders/TMP_Sprite.shader
+Forward Air Controller/Assets/TextMesh Pro/Resources/Shaders/TMP_Sprite.shader.meta
+Forward Air Controller/Assets/TextMesh Pro/Resources/Shaders/TMPro.cginc
+Forward Air Controller/Assets/TextMesh Pro/Resources/Shaders/TMPro.cginc.meta
+Forward Air Controller/Assets/TextMesh Pro/Resources/Shaders/TMPro_Properties.cginc
+Forward Air Controller/Assets/TextMesh Pro/Resources/Shaders/TMPro_Properties.cginc.meta
+Forward Air Controller/Assets/TextMesh Pro/Resources/Shaders/TMPro_Surface.cginc
+Forward Air Controller/Assets/TextMesh Pro/Resources/Shaders/TMPro_Surface.cginc.meta
+Forward Air Controller/Assets/TextMesh Pro/Resources/Sprite Assets.meta
+Forward Air Controller/Assets/TextMesh Pro/Resources/Sprite Assets/EmojiOne.asset
+Forward Air Controller/Assets/TextMesh Pro/Resources/Sprite Assets/EmojiOne.asset.meta
+Forward Air Controller/Assets/TextMesh Pro/Resources/Style Sheets.meta
+Forward Air Controller/Assets/TextMesh Pro/Resources/Style Sheets/Default Style Sheet.asset
+Forward Air Controller/Assets/TextMesh Pro/Resources/Style Sheets/Default Style Sheet.asset.meta
+Forward Air Controller/Assets/TextMesh Pro/Resources/TMP Settings.asset
+Forward Air Controller/Assets/TextMesh Pro/Resources/TMP Settings.asset.meta
+Forward Air Controller/Assets/TextMesh Pro/Sprites.meta
+Forward Air Controller/Assets/TextMesh Pro/Sprites/EmojiOne.json
+Forward Air Controller/Assets/TextMesh Pro/Sprites/EmojiOne.json.meta
+Forward Air Controller/Assets/TextMesh Pro/Sprites/EmojiOne.png
+Forward Air Controller/Assets/TextMesh Pro/Sprites/EmojiOne.png.meta
+Forward Air Controller/Assets/TutorialInfo.meta
+Forward Air Controller/Assets/TutorialInfo/Icons.meta
+Forward Air Controller/Assets/TutorialInfo/Icons/Help_Icon.png
+Forward Air Controller/Assets/TutorialInfo/Icons/Help_Icon.png.meta
+Forward Air Controller/Assets/TutorialInfo/Icons/ReadmeLogo.png
+Forward Air Controller/Assets/TutorialInfo/Icons/ReadmeLogo.png.meta
+Forward Air Controller/Assets/TutorialInfo/Scripts.meta
+Forward Air Controller/Assets/TutorialInfo/Scripts/Editor.meta
+Forward Air Controller/Assets/TutorialInfo/Scripts/Editor/ReadmeEditor.cs
+Forward Air Controller/Assets/TutorialInfo/Scripts/Editor/ReadmeEditor.cs.meta
+Forward Air Controller/Assets/TutorialInfo/Scripts/Readme.cs
+Forward Air Controller/Assets/TutorialInfo/Scripts/Readme.cs.meta
