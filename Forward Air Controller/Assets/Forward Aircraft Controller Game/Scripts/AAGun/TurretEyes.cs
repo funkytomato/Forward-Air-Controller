@@ -43,7 +43,8 @@ public class TurretEyes : MonoBehaviour
 
             if (Physics.Raycast(transform.position, _target.position - transform.position, out hit, range) &&
                                                                                                              hit.collider.tag == "Player" || 
-                                                                                                             hit.collider.tag == "AAProjectile")
+                                                                                                             hit.collider.tag == "AAProjectile" ||
+                                                                                                             hit.collider.tag == "WeatherMaker")
             {
                 animator.SetBool("isTargetVisible", true);
             }
