@@ -5,6 +5,18 @@ TagManager:
   serializedVersion: 2
   tags:
   - Shootable
+  - CanDestroy
+  - AAProjectile
+  - Enemy
+  - Missile
+  - RadarSphere
+  - WorldCreator
+  - TakeOffPlatform
+  - Terrain
+  - LevelBounds
+  - LevelScripts
+  - WeatherMaker
+  - WeatherMakerWind
   layers:
   - Default
   - TransparentFX
