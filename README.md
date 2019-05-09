@@ -1,7 +1,12 @@
 # Forward-Air-Controller
 # Unity Aircraft game
 
-# Uses followin assets:
+Not a game, but more about exploring using different components and how they can be used together integrated.
+
+Was trying to exploring how wind output from WeatherMaker could be applied to flight mechanics.
+
+
+# Uses following assets:
 
 #FlightKit
 #Gaia
